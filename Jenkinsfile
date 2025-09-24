@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('git') {
             steps {
-                git 'https://github.com/SrijanJayanthReddy/dicet_tv.git'
+                git 'https://github.com/SrijanJayanthReddy/dicet_tv.git'}
                
             }
         }
